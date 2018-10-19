@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Title This Is Me Starting Somewhere"
-date:       2018-10-19 03:10:58 +0000
+title:      "This Is Me Starting Somewhere"
+date:       2018-10-18 23:10:59 -0400
 permalink:  title_this_is_me_starting_somewhere
 ---
 
